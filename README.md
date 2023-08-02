@@ -1,4 +1,4 @@
-### Olá, eu sou o Adriel Rosa 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=260&section=header&text=Olá,%20Eu%20sou%20o%20Adriel%20Rosa!👋&animation=fadeIn&fontSize=30)
 
 - 🔭 Trabalhando em projetos pessoais ...
 - 🌱 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas ...
@@ -11,14 +11,17 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielRosa2001&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  
+
+  ### Main skills:
+   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Icon-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+  <img align="center" alt="DevIcon-Flask" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="DevIcon-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+  <img align="center" alt="DevIcon-Playwright" height="30" width="40" src="https://playwright.dev/img/playwright-logo.svg">
+  <img align="center" alt="DevIcon-MySQL" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="DevIcon-Flask" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="DevIcon-Selenium" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="DevIcon-MySQL" height="65" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="DevIcon-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="DevIcon-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   
@@ -35,4 +38,11 @@
   <a href="https://twitter.com/AdrielRosaDev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AdrielRosa2001}/count.svg" /></p> 
+<br>
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=120&section=header&animation=fadeIn&fontSize=30)
 ##
